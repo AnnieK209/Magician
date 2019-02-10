@@ -2,7 +2,7 @@
   "name": "magician",
   "version": "1.0.0",
   "description": "Deck of Cards",
-  "main": "magic.js",
+  "main": "main.js",
   "scripts": {
     "build": "babel src -b dist"
   },
